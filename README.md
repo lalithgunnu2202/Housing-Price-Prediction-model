@@ -25,7 +25,7 @@ The dataset contains 545 entries and 14 columns:
 1. **Preprocessing**
    - One-hot encoding for categorical features
    - Feature scaling (optional)
-   - Train-test split (80-20)
+   - Train-test split (62-38)
 
 2. **Model**
    - Linear Regression using `sklearn.linear_model.LinearRegression`
